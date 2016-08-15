@@ -1,0 +1,15 @@
+2016-08-06 13:58:53,450 - ERROR - __main__ - update_server_addr - 28 : DatabaseError: Connect to database failed: global name 'DATABASE' is not defined
+2016-08-06 14:00:04,344 - ERROR - __main__ - update_server_addr - 28 : DatabaseError: Connect to database failed: global name 'DATABASE' is not defined
+2016-08-08 10:10:03,210 - ERROR - __main__ - update_server_addr - 30 : DatabaseError: Connect to database failed: global name 'DATABASE' is not defined
+2016-08-08 10:11:13,286 - ERROR - __main__ - update_server_addr - 30 : DatabaseError: Connect to database failed: global name 'DATABASE' is not defined
+2016-08-08 10:14:30,295 - ERROR - __main__ - update_server_addr - 37 : DatabaseError: Connect to database failed: global name 'DATABASE' is not defined
+2016-08-08 10:16:13,360 - ERROR - __main__ - update_server_addr - 37 : DatabaseError: Connect to database failed: global name 'DATABASE' is not defined
+2016-08-08 10:22:05,804 - ERROR - __main__ - update_server_addr - 38 : DatabaseError: Connect to database failed: global name 'DATABASE' is not defined
+2016-08-08 10:25:11,942 - ERROR - __main__ - update_server_addr - 38 : DatabaseError: Connect to database failed: global name 'DATABASE' is not defined
+2016-08-08 11:39:08,041 - ERROR - __main__ - update_server_addr - 45 : DatabaseError: Connect to database failed: (2003, "Can't connect to MySQL server on '192.168.11.144' ([Errno 111] Connection refused)")
+2016-08-08 11:40:23,719 - ERROR - __main__ - update_server_addr - 45 : DatabaseError: Connect to database failed: (2003, "Can't connect to MySQL server on '192.168.11.144' ([Errno 111] Connection refused)")
+2016-08-08 11:41:53,303 - ERROR - __main__ - update_server_addr - 46 : DatabaseError: Connect to database failed: (2003, "Can't connect to MySQL server on '192.168.11.144' ([Errno 111] Connection refused)")
+2016-08-08 11:59:08,041 - ERROR - __main__ - update_server_addr - 46 : DatabaseError: Connect to database failed: (2003, "Can't connect to MySQL server on '192.168.11.144' ([Errno 111] Connection refused)")
+2016-08-08 12:03:04,619 - ERROR - __main__ - update_server_addr - 46 : DatabaseError: Connect to database failed: (2003, "Can't connect to MySQL server on '192.168.11.144' ([Errno 111] Connection refused)")
+2016-08-08 12:03:45,563 - ERROR - __main__ - update_server_addr - 46 : DatabaseError: Connect to database failed: (2003, "Can't connect to MySQL server on '192.168.11.144' ([Errno 111] Connection refused)")
+2016-08-08 12:14:14,585 - ERROR - __main__ - update_server_addr - 46 : DatabaseError: Connect to database failed: (2003, "Can't connect to MySQL server on '192.168.11.144' ([Errno 111] Connection refused)")
