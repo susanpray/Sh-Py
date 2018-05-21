@@ -9,13 +9,13 @@ from optparse import OptionParser
 import logging
 
 if __name__ == '__main__':
-    uri = "http://zc.suning.com/"
+    uri = ""
     method = 'chrome'
     webtest = webtester(uri,method)
     time.sleep(10)
     ## webtest.driver.find_element_by_link_text(u"登录").click()
-    ## webtest.driver.find_element_by_id('userName').send_keys('15295568019')
-    ## webtest.driver.find_element_by_id('password').send_keys('123qwe')
+    ## webtest.driver.find_element_by_id('userName').send_keys('')
+    ## webtest.driver.find_element_by_id('password').send_keys('')
     ## webtest.driver.find_element_by_id('submit').click()
     ## time.sleep(30)
     # webtest.driver.get(uri + "/project/browseList.htm")
