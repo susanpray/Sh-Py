@@ -17,9 +17,8 @@ class Finance(unittest.TestCase):
         os.environ["webdriver.chrome.driver"] = self.chromedriver
         self.driver = webdriver.Chrome(self.chromedriver)
         self.driver.implicitly_wait(30)
-        # self.base_url = "http://zpre.cnsuning.com/"
-        # self.base_url = "http://zc.suning.com/project/protocol.htm"
-        self.base_url = "http://zpre.cnsuning.com/project/protocol.htm"
+ 
+        self.base_url = "otocol.htm"
         self.verificationErrors = []
         self.accept_next_alert = True
 
