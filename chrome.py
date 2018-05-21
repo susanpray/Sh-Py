@@ -1,5 +1,5 @@
 
 if __name__ == '__main__':
-    uri="http://www.suning.com"
+    uri="http://"
     method = 'chrome'
     webtest = webtester(uri,method)
